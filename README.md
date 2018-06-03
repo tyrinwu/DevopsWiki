@@ -83,7 +83,7 @@ Table of Contents
 
 [How Linux CPU usage is Calculated](https://github.com/Leo-G/DevopsWiki/wiki/How-Linux-CPU-Usage-Time-and-Percentage-is-calculated)
 
-[Linux System Calls](http://www.digilife.be/quickreferences/qrc/linux%20system%20call%20quick%20reference.pdf)
+[Linux System Calls](https://web.archive.org/web/20170829215632/http://www.digilife.be/quickreferences/qrc/linux%20system%20call%20quick%20reference.pdf)
 
 [Linux One Second Boot](http://events.linuxfoundation.org/sites/events/files/slides/praesentation.pdf)
 
