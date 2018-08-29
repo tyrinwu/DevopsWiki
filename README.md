@@ -192,6 +192,7 @@ Table of Contents
 ## Sed
 
 [An introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
+[GNU sed overview](https://www.gnu.org/software/sed/manual/sed.html#Overview)
 
 **[Back to top](#table-of-contents)**
 
