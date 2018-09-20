@@ -125,7 +125,8 @@ Table of Contents
 
 [Building an RPM on CentOS](http://techarena51.com/blog/build-rpm-without-breaking-head/?utm_source=devopswiki)
 
-[ Bash if statements](http://techarena51.com/blog/bash-scripting-tutorial-part-2/?utm_source=devopswiki)
+[Bash if statements](http://techarena51.com/blog/bash-scripting-tutorial-part-2/?utm_source=devopswiki)
+[If](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html)
 
 [Beginners Guide to BASH](http://techarena51.com/blog/a-beginners-guide-to-bash-scripting/?utm_source=devopswiki)
 
