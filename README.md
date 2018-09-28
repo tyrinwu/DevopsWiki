@@ -58,6 +58,9 @@ Table of Contents
   10. [Machine Learning](#machine-learning)
       
       
+## Configuration
+
+[homeshick](https://github.com/andsens/homeshick)
            
 ## Linux
 
@@ -114,6 +117,14 @@ Table of Contents
 **[Back to top](#table-of-contents)**
 
 ## Bash Guides and Scripts
+
+#### Tools for Bash
+
+[Check common errors: ShellCheck](https://github.com/koalaman/shellcheck)
+
+[Formatting Code: beautysh](https://github.com/bemeurer/beautysh)
+
+#### Articles
 
 [Useful bash one-liners](https://github.com/stephenturner/oneliners)
 
