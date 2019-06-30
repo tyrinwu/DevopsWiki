@@ -58,6 +58,7 @@ Table of Contents
   10. [Machine Learning](#machine-learning)
       
       
+      
 ## Configuration
 
 [homeshick](https://github.com/andsens/homeshick)
@@ -123,6 +124,10 @@ Table of Contents
 [Check common errors: ShellCheck](https://github.com/koalaman/shellcheck)
 
 [Formatting Code: beautysh](https://github.com/bemeurer/beautysh)
+
+[Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+
+[StackOverflow Shell Script Practices](https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts)
 
 #### Articles
 
